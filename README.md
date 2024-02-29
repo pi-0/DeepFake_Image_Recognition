@@ -1,4 +1,6 @@
-# DeepFake_Image_Recognition
+<h1 align="center">
+DeepFake_Image_Recognition
+</h1>
 {BODY}
 
 ## INTRODUCTION 
@@ -7,3 +9,16 @@ Deep fake technology has gained significant attention in recent years due to its
 ## TECHNOLOGIES USED
 [![Tech_Used](https://skills.thijs.gg/icons?i=py&theme=dark)](https://skills.thijs.gg) {HTml?}
 
+## ARCHITECTURE
+{ARCHITECTURE DESCRIPTION}
+
+# Project Mentors:
+1. [K V Srinanda](https://github.com/Srinandakv2004)
+2. [Charu Shah](https://github.com/shahcharu)
+3. [Vishal Marwade]
+   
+# Project Mentees:
+1. [Aniket Kulkarni]
+2. [Aryan N. Herur]
+3. [Jobin Jacob](https://github.com/Jokergif)
+4. [Vaibhav Santhosh]
