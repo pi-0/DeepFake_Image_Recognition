@@ -29,10 +29,10 @@ FFHQ-dataset has been used for real images. Fake images have been generated via 
 # Project Mentors:
 1. [K V Srinanda](https://github.com/Srinandakv2004)
 2. [Charu Shah](https://github.com/shahcharu)
-3. Vishal Marwade
+3. Vishal Marwade {github id}
    
 # Project Mentees:
 1. [Aniket Kulkarni](https://github.com/Aniketk047)
 2. [Aryan N. Herur](https://github.com/Aryan-Herur)
 3. [Jobin Jacob](https://github.com/Jokergif)
-4. [Vaibhav Santhosh]()
+4. [Vaibhav Santhosh {github id}]()
