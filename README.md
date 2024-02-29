@@ -2,6 +2,7 @@
 DeepFake_Image_Recognition
 </h1>
 {BODY}
+The project entails two main objectives: to understand the entire architecture of the underlying neural network, and to implement web application for distinguish Deepfake images.
 
 ## INTRODUCTION 
 Deep fake technology has gained significant attention in recent years due to its potential to generate highly realistic counterfeit images and videos, raising concerns about the integrity of visual media. Addressing the challenge of detecting deep fake images is crucial to ensure trustworthiness in various domains, including journalism, forensics, and social media platforms. This project aims to explore the effectiveness of frequency analysis techniques and deep learning for deep fake image recognition, offering a comprehensive study to enhance the reliability of detection methods.
@@ -22,7 +23,8 @@ FFHQ-dataset has been used for real images. Fake images have been generated via 
 {body}
 
 # References
-{body}
+1. [Reference](https://arxiv.org/pdf/2003.08685.pdf)
+2. https://github.com/RUB-SysSec/GANDCTAnalysis
 
 # Project Mentors:
 1. [K V Srinanda](https://github.com/Srinandakv2004)
