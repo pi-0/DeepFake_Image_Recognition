@@ -232,7 +232,7 @@ import pandas as pd
 import tensorflow as tf
 from tensorflow.python.framework import ops
 
-%matplotlib inline
+
 np.random.seed(1)
 # Function to extract DCT features from an image
 def extract_dct(img):
