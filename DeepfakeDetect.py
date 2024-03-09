@@ -1,4 +1,4 @@
-pip install skimage
+
 import numpy as np
 import os
 from skimage import io
